@@ -13,3 +13,6 @@ https://github.com/ervanervan/dataset-skripsi/blob/main/laporan_iklim_harian_tan
 
 Dataset anambas ff_avg new
 https://raw.githubusercontent.com/ervanervan/dataset-skripsi/main/laporan_iklim_anambas_ff_avg_1.csv
+
+Dataset Anambas
+https://raw.githubusercontent.com/ervanervan/dataset-skripsi/main/laporan_iklim_anambas.csv
