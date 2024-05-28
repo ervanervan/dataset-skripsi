@@ -16,3 +16,6 @@ https://raw.githubusercontent.com/ervanervan/dataset-skripsi/main/laporan_iklim_
 
 Dataset Anambas
 https://raw.githubusercontent.com/ervanervan/dataset-skripsi/main/laporan_iklim_anambas.csv
+
+Dataset Tanjungpinang
+https://raw.githubusercontent.com/ervanervan/dataset-skripsi/main/laporan_iklim_harian_tanjungpinang.csv
